@@ -9,3 +9,9 @@ This is a simple app that demonstrate simple CRUD operation using Angular 5 func
 *   Save to your desire path or location and Extract the Project.
 *   You in the can test the APP at angular-reddit-Dist folder (just click on the index file) or you can mount the angular-reddit-     sourceFiles-RAW folder on your IDE (create project first with npm / angular cli).
 *   Feel Free to Test my Project. :+1:
+
+## :point_right: The CRUD Function ( This sample app will do the following:)
+* Create - Able to Add Threads which appends on the list below the form
+* Retrieve - Able to get all the list available  below the form
+* Update - Able to update the votes and perform sorting on which who has the highest votes
+* Delete - Able to delete the list below the form
