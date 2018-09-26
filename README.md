@@ -1,5 +1,5 @@
-# Angular-5-6-CRUD
-This is a simple app that demonstrate simple CRUD operation using Angular 5 &amp; 6 functions
+# Angular-5-CRUD
+This is a simple app that demonstrate simple CRUD operation using Angular 5 functions
 
 ## :point_right: Check out the Live Sample Here
 *   https://dist-rttnjljcau.now.sh/angular-reddit/  - Many thanks for NOW-Cli for hosting my sample projects
